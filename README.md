@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre Mim
 
-- 🚀 &nbsp; Desenvolvedor Full Stack | Fundador e CEO da GMJ CODE®, especializada no desenvolvimento de soluções personalizadas e inovadoras.
+- 🚀 &nbsp; Desenvolvedor Full Stack | Fundador e CEO da GMJ CODE®, especializado no desenvolvimento de soluções personalizadas e inovadoras.
 - 🎯 &nbsp; Comprometido em entregar soluções eficientes, inovadoras e escaláveis, atendendo às necessidades de diversos segmentos.
 - 💡 &nbsp; Experiência sólida em desenvolvimento de sistemas e aplicativos, automação de processos, otimização de fluxos de trabalho e desenvolvimento web.
 - 🔍 &nbsp; Apaixonado por inovação e tecnologia, sempre em busca de aprimorar minhas habilidades.
