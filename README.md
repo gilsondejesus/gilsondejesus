@@ -9,12 +9,12 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre Mim
 
-- 🚀 &nbsp; Desenvolvedor Full Stack | Fundador e CEO da GMJ CODE®, uma empresa de tecnologia especializada no desenvolvimento de soluções personalizadas e inovadoras.
-- 🎯 &nbsp; Foco em entregar soluções eficientes, inovadoras e escaláveis para diversos segmentos.
-- 💡 &nbsp; Experiência em automação de processos, otimização de fluxos de trabalho e desenvolvimento web.
-- 🔍 &nbsp; Apaixonado por inovação, tecnologia e sempre buscando aprimorar minhas habilidades.
-- 🌱 &nbsp; Interesse contínuo em novas tecnologias e tendências do mercado.
-- 📈 &nbsp; Experiência em planejamento estratégico e análise de custos em projetos de tecnologia.
+- 🚀 &nbsp; Desenvolvedor Full Stack | Fundador e CEO da GMJ CODE®, especializada no desenvolvimento de soluções personalizadas e inovadoras.
+- 🎯 &nbsp; Comprometido em entregar soluções eficientes, inovadoras e escaláveis, atendendo às necessidades de diversos segmentos.
+- 💡 &nbsp; Experiência sólida em desenvolvimento de sistemas e aplicativos, automação de processos, otimização de fluxos de trabalho e desenvolvimento web.
+- 🔍 &nbsp; Apaixonado por inovação e tecnologia, sempre em busca de aprimorar minhas habilidades.
+- 🌱 &nbsp; Focado no aprendizado contínuo e nas novas tendências do mercado.
+- 📈 &nbsp; Experiência em planejamento estratégico e otimização de recursos, impulsionando resultados sustentáveis e inovadores.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -50,4 +50,4 @@
 
 ![Gilson de Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=dracula)
 
-📫 Quer trocar uma ideia? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail! 😊
+📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
