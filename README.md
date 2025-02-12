@@ -48,7 +48,7 @@
 
 <!-- ## 🚀 &nbsp;Estatísticas do GitHub -->
 
-![Gilson de Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=dracula)
+<!-- ![Gilson de Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=dracula) -->
 
 ---
 
