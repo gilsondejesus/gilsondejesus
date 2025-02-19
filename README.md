@@ -48,7 +48,16 @@
 
 ## 🚀 &nbsp;Estatísticas do GitHub
 
-![Gilson de Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=poimandres)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilsondejesus&layout=compact&theme=poimandres) 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=dracula" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsondejesus&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
+ 
 
 📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
