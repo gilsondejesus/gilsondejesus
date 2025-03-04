@@ -5,7 +5,7 @@
 <a href="gilson@gmjcode.com"><img src="https://img.shields.io/badge/-gilson@gmjcode.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/-GMJ%20CODE-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+<img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=333333&style=flat" alt="Contador de visitantes" />
 </p>
 
 ## 👨🏻‍💻 &nbsp;Sobre Mim
