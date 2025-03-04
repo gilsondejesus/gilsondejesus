@@ -58,8 +58,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation dark mode">
+  <img src="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode">
 </p>
+
 
 
 
