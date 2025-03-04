@@ -19,7 +19,10 @@ jobs:
           outputs: "github-contribution-grid-snake.svg"
 
       - name: Commit e push da animação
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Atualização automática da animação Snake"
-          add: "github-contribution-grid-snake.svg"
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Atualização automática da animação Snake" || echo "Nenhuma alteração para commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
