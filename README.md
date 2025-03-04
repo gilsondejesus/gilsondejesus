@@ -43,11 +43,35 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)
 
-## 🚀 &nbsp;Estatísticas do GitHub
+## 📈 &nbsp;Atividade no GitHub
 
-![Gilson de Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=dracula)  
+<p align="center">
+  <img src="https://github.com/gmjcode/gmjcode/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
-📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gmjcode&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gmjcode&theme=radical" />
+</p>
+
+## 🏆 Linguagens Mais Utilizadas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmjcode&layout=compact&theme=radical" />
+</p>
+
+## 🔥 Visitantes no Perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gmjcode&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+</p>
+
+## 🐍 &nbsp;Snake Animation
+
+<p align="center">
+  <img src="https://github.com/gmjcode/gmjcode/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
