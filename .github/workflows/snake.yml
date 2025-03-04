@@ -12,11 +12,12 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar animação Snake
+      - name: Gerar animação Snake com fundo preto
         uses: Platane/snk@v3
         with:
           github_user_name: "gilsondejesus"
           outputs: "github-contribution-grid-snake.svg"
+          palette: "github-dark" # Define o fundo preto
 
       - name: Commit e push da animação
         run: |
@@ -25,4 +26,3 @@ jobs:
           git add github-contribution-grid-snake.svg
           git commit -m "Atualização automática da animação Snake" || echo "Nenhuma alteração para commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-
