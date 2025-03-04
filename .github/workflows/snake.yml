@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: "gilsondejesus"
           outputs: "github-contribution-grid-snake-dark.svg"
-          svg_out_path: "github-contribution-grid-snake-dark.svg?palette=github-dark"
+          palette: "github-dark"  # <- Isso força o fundo escuro
 
       - name: Commit e push da animação
         run: |
