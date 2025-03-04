@@ -47,12 +47,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)
 
-## 🚀 &nbsp;Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical" />
-</p>
-
 📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
 
 
