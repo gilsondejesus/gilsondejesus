@@ -12,12 +12,12 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar animação Snake com fundo preto
+      - name: Gerar animação Snake
         uses: Platane/snk@v3
         with:
           github_user_name: "gilsondejesus"
           outputs: "github-contribution-grid-snake.svg"
-          palette: "github-dark" # Define o fundo preto
+          palette: "dark"  # Define o fundo escuro
 
       - name: Commit e push da animação
         run: |
