@@ -49,9 +49,9 @@
 
 ## 🚀 &nbsp;Estatísticas do GitHub
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical" />
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img style="max-width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical" />
+  <img style="max-width: 48%; height: auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical" />
 </p>
 
 📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
