@@ -16,8 +16,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: "gilsondejesus"
-          outputs: "github-contribution-grid-snake-dark.svg"
-          palette: "github-dark"  # <- Isso força o fundo escuro
+          outputs: |
+            github-contribution-grid-snake-dark.svg
+          config: "dark" # Aplica tema escuro
 
       - name: Commit e push da animação
         run: |
