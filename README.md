@@ -7,6 +7,10 @@
 <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+</p>
+
 ## 👨🏻‍💻 &nbsp;Sobre Mim
 
 - 🚀 &nbsp; Desenvolvedor Full Stack | Fundador e CEO da GMJ CODE®, especializado no desenvolvimento de soluções personalizadas e inovadoras.
@@ -52,14 +56,13 @@
 
 📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
 
-## 🔥 Visitantes no Perfil
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake.svg" alt="snake animation">
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode">
-</p>
 
 
 
