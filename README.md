@@ -5,10 +5,7 @@
 <a href="gilson@gmjcode.com"><img src="https://img.shields.io/badge/-gilson@gmjcode.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/-GMJ%20CODE-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+<img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
 </p>
 
 ## 👨🏻‍💻 &nbsp;Sobre Mim
@@ -52,16 +49,13 @@
 
 ## 🚀 &nbsp;Estatísticas do GitHub
 
-![Gilson de Jesus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=dracula)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical" />
+</p>
 
 📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/main/github-contribution-grid-snake.svg" alt="snake animation">
-  </picture>
-</p>
 
 
 
