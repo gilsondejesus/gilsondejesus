@@ -53,5 +53,6 @@
 📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
 
 <p align="center">
-  <img src="https://github.com/gilsondejesus/gilsondejesus/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/gilsondejesus/gilsondejesus/output/github-contribution-grid-snake.svg" alt="snake animation">
 </p>
+
