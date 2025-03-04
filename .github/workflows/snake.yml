@@ -12,17 +12,17 @@ jobs:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar animação Snake
+      - name: Gerar animação Snake com fundo escuro
         uses: Platane/snk@v3
         with:
           github_user_name: "gilsondejesus"
-          outputs: "github-contribution-grid-snake.svg"
-          palette: "dark"  # Define o fundo escuro
+          outputs: "github-contribution-grid-snake-dark.svg"
+          svg_out_path: "github-contribution-grid-snake-dark.svg?palette=github-dark"
 
       - name: Commit e push da animação
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-contribution-grid-snake.svg
-          git commit -m "Atualização automática da animação Snake" || echo "Nenhuma alteração para commit"
+          git add github-contribution-grid-snake-dark.svg
+          git commit -m "Atualização automática da animação Snake com fundo escuro" || echo "Nenhuma alteração para commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
