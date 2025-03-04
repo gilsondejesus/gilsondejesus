@@ -1,7 +1,7 @@
 # 👋 &nbsp;Olá, eu sou Gilson de Jesus, um desenvolvedor apaixonado por tecnologia!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-%20Gilson%20de%20Jesus-55555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
+<a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-%20Gilson%20de%20Jesus-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
 <a href="gilson@gmjcode.com"><img src="https://img.shields.io/badge/-gilson@gmjcode.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/-GMJ%20CODE-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
