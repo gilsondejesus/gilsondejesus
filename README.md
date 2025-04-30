@@ -1,7 +1,6 @@
 <div style="text-align: center;">
-  <img src="https://drive.google.com/file/d/1KxcOOdbpN9yOdcNYNtVyLZEZ2euBdTyj/view" alt="Logo GMJ CODE" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/username/repository/blob/main/assets/your_image.png?raw=true" alt="Logo GMJ CODE" style="max-width: 100%; height: auto;" />
 </div>
-
 
 <p align="center">
   <img src="https://www.gmjcode.com/logo.png" width="150px" alt="Logo GMJ CODE" />
@@ -13,27 +12,25 @@
 <!-- Redes sociais -->
 <div align="center">
   <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px; pointer-events: none;" />
   </a>
 
   <a href="mailto:gilson@gmjcode.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40px" alt="Email" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40px" alt="Email" style="margin-right: 15px; pointer-events: none;" />
   </a>
 
   <a href="https://www.instagram.com/gmjcode/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px" alt="Instagram" style="margin-right: 15px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px" alt="Instagram" style="margin-right: 15px; pointer-events: none;" />
   </a>
 
   <a href="https://www.gmjcode.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" style="pointer-events: none;" />
   </a>
 </div>
 
-
-<p align="center">
+<p align="center" style="padding-top: 20px; padding-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
 </p>
-
 
 ---
 
