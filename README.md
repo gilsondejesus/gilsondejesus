@@ -2,25 +2,24 @@
 <p align="center">Desenvolvedor Full Stack & CEO da <strong>GMJ CODE®</strong> | Especialista em Soluções Tecnológicas Inovadoras</p>
 
 <!-- Redes sociais -->
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%20Gilson%20de%20Jesus-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px; pointer-events: none;" />
   </a>
+
   <a href="mailto:gilson@gmjcode.com" target="_blank">
-    <img src="https://img.shields.io/badge/-gilson@gmjcode.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40px" alt="Email" style="margin-right: 15px; pointer-events: none;" />
   </a>
+
   <a href="https://www.instagram.com/gmjcode/" target="_blank">
-    <img src="https://img.shields.io/badge/-GMJ%20CODE-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px" alt="Instagram" style="margin-right: 15px; pointer-events: none;" />
   </a>
+
   <a href="https://www.gmjcode.com" target="_blank">
-    <img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" style="pointer-events: none;" />
   </a>
-</p>
+</div>
 
-
-
-
----
 
 ## 👨🏻‍💻 Sobre Mim
 
