@@ -21,9 +21,11 @@
 </div>
 
 
+<div align="center">
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
 </p>
+</div>
 
 ---
 
