@@ -2,23 +2,21 @@
 <p align="center">Desenvolvedor Full Stack & CEO da <strong>GMJ CODE®</strong> | Especialista em Soluções Tecnológicas Inovadoras</p>
 
 <!-- Redes sociais -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36px" alt="LinkedIn" style="background-color: #0A66C2; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%20Gilson%20de%20Jesus-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:gilson@gmjcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/-gilson@gmjcode.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/gmjcode/" target="_blank">
+    <img src="https://img.shields.io/badge/-GMJ%20CODE-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.gmjcode.com" target="_blank">
+    <img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
-  <a href="mailto:gilson@gmjcode.com" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="36px" alt="Email" style="background-color: #D44638; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-
-  <a href="https://www.instagram.com/gmjcode/" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="36px" alt="Instagram" style="background-color: #E1306C; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-
-  <a href="https://www.gmjcode.com" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="36px" alt="Website" style="background-color: #4285F4; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</div>
 
 
 
