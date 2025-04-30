@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://www.gmjcode.com/logo.png](https://drive.google.com/file/d/1KxcOOdbpN9yOdcNYNtVyLZEZ2euBdTyj/view" alt="Logo GMJ CODE" style="max-width: 100%; height: auto;" />
+  <img src="https://drive.google.com/file/d/1KxcOOdbpN9yOdcNYNtVyLZEZ2euBdTyj/view" alt="Logo GMJ CODE" style="max-width: 100%; height: auto;" />
 </div>
 
 
@@ -29,9 +29,11 @@
   </a>
 </div>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
 </p>
+
 
 ---
 
