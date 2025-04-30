@@ -1,5 +1,4 @@
-<div style="text-align: center;">
-  <img src="https://github.com/username/repository/blob/main/assets/your_image.png?raw=true" alt="Logo GMJ CODE" style="max-width: 100%; height: auto;" />
+<div>
 </div>
 
 <p align="center">
@@ -26,6 +25,9 @@
   <a href="https://www.gmjcode.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" style="pointer-events: none;" />
   </a>
+</div>
+
+<div>
 </div>
 
 <p align="center" style="padding-top: 20px; padding-bottom: 20px;">
