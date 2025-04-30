@@ -1,30 +1,25 @@
-<div align="center">
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
-</p>
-</div>
-
 <h1 align="center">👋 Olá, eu sou Gilson de Jesus</h1>
 <p align="center">Desenvolvedor Full Stack & CEO da <strong>GMJ CODE®</strong> | Especialista em Soluções Tecnológicas Inovadoras</p>
 
 <!-- Redes sociais -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px; pointer-events: none;" />
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="36px" alt="LinkedIn" style="background-color: #0A66C2; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 
-  <a href="mailto:gilson@gmjcode.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40px" alt="Email" style="margin-right: 15px; pointer-events: none;" />
+  <a href="mailto:gilson@gmjcode.com" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="36px" alt="Email" style="background-color: #D44638; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 
-  <a href="https://www.instagram.com/gmjcode/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px" alt="Instagram" style="margin-right: 15px; pointer-events: none;" />
+  <a href="https://www.instagram.com/gmjcode/" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="36px" alt="Instagram" style="background-color: #E1306C; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 
-  <a href="https://www.gmjcode.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" style="pointer-events: none;" />
+  <a href="https://www.gmjcode.com" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="36px" alt="Website" style="background-color: #4285F4; padding: 10px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
+
 
 
 ---
@@ -100,3 +95,10 @@ Sou pai, entusiasta de esportes de resistência e acredito em liderança humaniz
 
 Entre em contato via [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail: **gilson@gmjcode.com**  
 Juntos, podemos transformar tecnologia em resultado real. 🚀
+
+
+<div align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+</p>
+</div>
