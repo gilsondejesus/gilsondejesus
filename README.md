@@ -1,3 +1,9 @@
+<div align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+</p>
+</div>
+
 <h1 align="center">👋 Olá, eu sou Gilson de Jesus</h1>
 <p align="center">Desenvolvedor Full Stack & CEO da <strong>GMJ CODE®</strong> | Especialista em Soluções Tecnológicas Inovadoras</p>
 
@@ -20,12 +26,6 @@
   </a>
 </div>
 
-
-<div align="center">
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
-</p>
-</div>
 
 ---
 
