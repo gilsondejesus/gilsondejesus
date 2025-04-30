@@ -1,24 +1,32 @@
+<div style="text-align: center;">
+  <img src="https://www.gmjcode.com/logo.png](https://drive.google.com/file/d/1KxcOOdbpN9yOdcNYNtVyLZEZ2euBdTyj/view" alt="Logo GMJ CODE" style="max-width: 100%; height: auto;" />
+</div>
+
+
+<p align="center">
+  <img src="https://www.gmjcode.com/logo.png" width="150px" alt="Logo GMJ CODE" />
+</p>
+
 <h1 align="center">👋 Olá, eu sou Gilson de Jesus</h1>
 <p align="center">Desenvolvedor Full Stack & CEO da <strong>GMJ CODE®</strong> | Especialista em Soluções Tecnológicas Inovadoras</p>
 
+<!-- Redes sociais -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px;" />
+  </a>
 
-<a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px;" />
-</a>
+  <a href="mailto:gilson@gmjcode.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40px" alt="Email" style="margin-right: 15px;" />
+  </a>
 
-<a href="mailto:gilson@gmjcode.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" alt="Email" style="margin-right: 15px;" />
-</a>
+  <a href="https://www.instagram.com/gmjcode/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40px" alt="Instagram" style="margin-right: 15px;" />
+  </a>
 
-<a href="https://www.instagram.com/gmjcode/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40px" alt="Instagram" style="margin-right: 15px;" />
-</a>
-
-<a href="https://www.gmjcode.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" />
-</a>
-
+  <a href="https://www.gmjcode.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" />
+  </a>
 </div>
 
 <p align="center">
@@ -29,9 +37,9 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-- 🚀 Fundador da **GMJ CODE®**, focado em transformar ideias em soluções digitais escaláveis.
-- 🎯 Experiência sólida com desenvolvimento de sistemas, automação e aplicações web/mobile.
-- 📊 Forte background em gestão estratégica, otimização de processos e liderança técnica.
+- 🚀 Fundador da **GMJ CODE®**, focado em transformar ideias em soluções digitais escaláveis.  
+- 🎯 Experiência sólida com desenvolvimento de sistemas, automação e aplicações web/mobile.  
+- 📊 Forte background em gestão estratégica, otimização de processos e liderança técnica.  
 - 💡 Paixão por inovação, aprendizado contínuo e melhoria de performance com tecnologia.
 
 ## 🧠 Minha Trajetória Profissional
@@ -40,15 +48,15 @@ Minha carreira combina mais de **10 anos em gestão administrativa** com experi�
 
 ### 🔎 Na GMJ CODE®, atuo com foco em:
 
-- **Desenvolvimento Estratégico**: sistemas, apps e plataformas web/mobile personalizadas.
-- **Inovação Corporativa**: criação de roadmaps tecnológicos alinhados ao negócio.
-- **Parcerias de Longo Prazo**: entregas que combinam excelência técnica e resultado comercial.
+- **Desenvolvimento Estratégico**: sistemas, apps e plataformas web/mobile personalizadas.  
+- **Inovação Corporativa**: criação de roadmaps tecnológicos alinhados ao negócio.  
+- **Parcerias de Longo Prazo**: entregas que combinam excelência técnica e resultado comercial.  
 - **Governança de TI**: manutenção, suporte e evolução contínua.
 
 ### 🌟 Destaques:
 
-- **Liderança Transformadora**: projetos com foco em ROI e experiência do usuário.
-- **Soluções Customizadas**: aumento médio de 40% na produtividade dos clientes.
+- **Liderança Transformadora**: projetos com foco em ROI e experiência do usuário.  
+- **Soluções Customizadas**: aumento médio de 40% na produtividade dos clientes.  
 - **Cultura de Inovação**: parcerias com startups, mentoria e atuação em fóruns estratégicos.
 
 ### 🧩 Áreas de Atuação:
@@ -98,12 +106,3 @@ Sou pai, entusiasta de esportes de resistência e acredito em liderança humaniz
 
 Entre em contato via [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail: **gilson@gmjcode.com**  
 Juntos, podemos transformar tecnologia em resultado real. 🚀
-
-
-
-
-
-
-
-
-
