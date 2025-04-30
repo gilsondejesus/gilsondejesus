@@ -1,53 +1,104 @@
-# 👋 &nbsp;Olá, eu sou Gilson de Jesus, um desenvolvedor apaixonado por tecnologia!
+<h1 align="center">👋 Olá, eu sou Gilson de Jesus</h1>
+<p align="center">Desenvolvedor Full Stack & CEO da <strong>GMJ CODE®</strong> | Especialista em Soluções Tecnológicas Inovadoras</p>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gilsondejesus" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn" style="margin-right: 15px;" />
+</a>
+
+<a href="mailto:gilson@gmjcode.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" alt="Email" style="margin-right: 15px;" />
+</a>
+
+<a href="https://www.instagram.com/gmjcode/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40px" alt="Instagram" style="margin-right: 15px;" />
+</a>
+
+<a href="https://www.gmjcode.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Website" />
+</a>
+
+</div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-%20Gilson%20de%20Jesus-555555?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
-<a href="gilson@gmjcode.com"><img src="https://img.shields.io/badge/-gilson@gmjcode.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/-GMJ%20CODE-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/-gmjcode.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=gilsondejesus&label=Visitantes&color=blue&style=flat" alt="Contador de visitantes" />
 </p>
 
-## 👨🏻‍💻 &nbsp;Sobre Mim
+---
 
-- 🚀 &nbsp; Desenvolvedor Full Stack | Fundador e CEO da GMJ CODE®, especializado no desenvolvimento de soluções personalizadas e inovadoras.
-- 🎯 &nbsp; Comprometido em entregar soluções eficientes, inovadoras e escaláveis, atendendo às necessidades de diversos segmentos.
-- 💡 &nbsp; Experiência sólida em desenvolvimento de sistemas e aplicativos, automação de processos, otimização de fluxos de trabalho e desenvolvimento web.
-- 🔍 &nbsp; Apaixonado por inovação e tecnologia, sempre em busca de aprimorar minhas habilidades.
-- 🌱 &nbsp; Focado no aprendizado contínuo e nas novas tendências do mercado.
-- 📈 &nbsp; Experiência em planejamento estratégico e otimização de recursos, impulsionando resultados sustentáveis e inovadores.
+## 👨🏻‍💻 Sobre Mim
 
-## 🛠 &nbsp;Tech Stack
+- 🚀 Fundador da **GMJ CODE®**, focado em transformar ideias em soluções digitais escaláveis.
+- 🎯 Experiência sólida com desenvolvimento de sistemas, automação e aplicações web/mobile.
+- 📊 Forte background em gestão estratégica, otimização de processos e liderança técnica.
+- 💡 Paixão por inovação, aprendizado contínuo e melhoria de performance com tecnologia.
 
-### 💻 &nbsp;Front-end:
+## 🧠 Minha Trajetória Profissional
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+Minha carreira combina mais de **10 anos em gestão administrativa** com experiência em tecnologia. Em 2022, fundei a **GMJ CODE®**, com o propósito de ajudar empresas a acelerarem sua transformação digital.
 
-### ⚙️ &nbsp;Back-end e Banco de Dados:
+### 🔎 Na GMJ CODE®, atuo com foco em:
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![APIs REST](https://img.shields.io/badge/-APIs%20REST-333333?style=flat&logo=api)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Prisma ORM](https://img.shields.io/badge/-Prisma%20ORM-333333?style=flat&logo=prisma)
+- **Desenvolvimento Estratégico**: sistemas, apps e plataformas web/mobile personalizadas.
+- **Inovação Corporativa**: criação de roadmaps tecnológicos alinhados ao negócio.
+- **Parcerias de Longo Prazo**: entregas que combinam excelência técnica e resultado comercial.
+- **Governança de TI**: manutenção, suporte e evolução contínua.
 
-### 🛠 &nbsp;Ferramentas:
+### 🌟 Destaques:
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)
+- **Liderança Transformadora**: projetos com foco em ROI e experiência do usuário.
+- **Soluções Customizadas**: aumento médio de 40% na produtividade dos clientes.
+- **Cultura de Inovação**: parcerias com startups, mentoria e atuação em fóruns estratégicos.
 
-📫 Vamos conversar? Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail. Estou à disposição! 😊
+### 🧩 Áreas de Atuação:
+
+- Transformação Digital Corporativa  
+- Estratégia e Inovação Tecnológica  
+- Arquitetura de Soluções Escaláveis  
+- Otimização de Processos com Tecnologia  
+- Gestão de Projetos de Alto Impacto
+
+### 💬 Além da Gestão:
+
+Sou pai, entusiasta de esportes de resistência e acredito em liderança humanizada, com propósito e confiança. A disciplina das corridas me acompanha na jornada profissional.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Front-end
+![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
+### ⚙️ Back-end & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-20232A?style=for-the-badge&logo=api&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=00758F)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Prisma ORM](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+
+### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
+
+---
+
+## 📫 Vamos conversar?
+
+Entre em contato via [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail: **gilson@gmjcode.com**  
+Juntos, podemos transformar tecnologia em resultado real. 🚀
+
 
 
 
