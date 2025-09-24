@@ -85,6 +85,6 @@ Sou pai, entusiasta de esportes de resistência e acredito em liderança humaniz
 
 ## 📫 Vamos conversar?
 
-Entre em contato via [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail: **gilson@gmjcode.com**  
+Entre em contato via [LinkedIn](https://www.linkedin.com/in/gilsondejesus) ou por e-mail: **gilsonmdj@gmail.com**  
 Juntos, podemos transformar tecnologia em resultado real. 🚀
 
