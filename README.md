@@ -78,20 +78,20 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics & Consistência
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&count_private=true" alt="Estatísticas de Gilson" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>🔥 Commits Diários</h3>
-  <img src="https://ghchart.rshah.org/FF1493/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
+  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical&hide_border=true&background=000000&ring=00F7FF&fire=FF1493&currStreakLabel=00F7FF&sideLabels=00F7FF" alt="Streak de Gilson" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="Streak de Gilson" />
 </div>
 
 ---
