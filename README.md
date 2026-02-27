@@ -77,8 +77,6 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 ## 📊 Analytics & Consistência
 
-<br/>
-
 <div align="center">
   <h3>🔥 Commits Diários</h3>
   <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
