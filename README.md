@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-Corporate-3423A6?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </div>
@@ -75,16 +75,23 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 ---
 
-## 📊 Analytics & Atividade
+## 📊 Analytics & Consistência
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/gilsondejesus?base=header%2C%20repositories%2C%20community&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo&config.theme=dark&config.colors=20232a%2C%2000f7ff%2C%20ff1493&hide=email" alt="Métricas Gerais e Contribuições de Gilson de Jesus" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/gilsondejesus?base=activity&activity=heatmap&activity.heatmap=days&activity.heatmap=commits&config.theme=dark&config.colors=20232a%2C%2000f7ff%2C%20ff1493&hide=email" alt="Calendário de Contribuições Diárias (Heatmap)" />
+  <h3>🔥 Commits Diários</h3>
+  <img src="https://ghchart.rshah.org/FF1493/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical&hide_border=true&background=000000&ring=00F7FF&fire=FF1493&currStreakLabel=00F7FF&sideLabels=00F7FF" alt="Streak de Gilson" />
 </div>
 
 ---
