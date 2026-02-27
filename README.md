@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gilson@gmjcode.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gilson@gmjcode.com"><img src="https://img.shields.io/badge/Email-Corporate-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </div>
@@ -23,26 +23,34 @@
 
 Com mais de uma década de experiência combinando gestão administrativa e tecnologia, atuo na interseção entre **engenharia de software** e **inteligência corporativa**. Como fundador da GMJ CODE®, meu objetivo não é apenas entregar linhas de código, mas sim transformar desafios complexos em ecossistemas digitais escaláveis e seguros.
 
-Sou um entusiasta de esportes de resistência, participando de provas de longa distância (21km e 42km). Essa mesma disciplina, resiliência e foco em resultados mensuráveis das pistas de corrida é o que aplico diariamente na liderança técnica e corporativa.
+Sou um entusiasta de esportes de resistência. Essa mesma disciplina e foco em resultados da jornada profissional me acompanham nas provas de longa distância.
 
-- 🚀 **Foco atual:** Arquitetura de soluções web/mobile de alta performance e governança de TI.
-- 🎯 **Diferencial:** Liderança humanizada com alinhamento rigoroso entre a excelência técnica e o ROI do negócio.
-- 🌱 **Em constante evolução:** Atualmente explorando **Python** e **Golang** para expandir as capacidades de backend e automação.
+* 🚀 **Foco atual:** Arquitetura de soluções web/mobile de alta performance, governança de TI e integração de **IA** e **automações**.
+* 🎯 **Diferencial:** Liderança humanizada com alinhamento rigoroso entre a excelência técnica e o ROI do negócio.
+* 🌱 **Em constante evolução:** Atualmente explorando aprofundadamente **Python** para backend e ciência de dados.
 
 ---
 
-## 🦁 A GMJ CODE®
+## 🦁 O DNA da Marca: GMJ CODE®
 
-Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma empresa *Digital First*, com atuação sem fronteiras e marca registrada (INPI). Nascemos para ser o braço tecnológico de companhias que não aceitam o "básico".
+Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma empresa *Digital First*, com atuação sem fronteiras e marca registrada (INPI). Nascemos para ser o braço tecnológico de companhias que buscam escalabilidade, segurança e inovação real.
 
-* **Agilidade com Governança:** Velocidade aliada aos processos exigidos por grandes corporações.
 * **Atendimento Consultivo:** Entendemos o seu modelo de negócio antes de propor a tecnologia.
+* **Agilidade com Governança:** Velocidade aliada aos processos exigidos por grandes corporações.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 Trabalho com as linguagens mais modernas e seguras do mercado global para garantir entregas de ponta.
+
+### Back-end & Novas Explorações
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE052)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Prisma ORM](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
 
 ### Front-end
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -51,17 +59,11 @@ Trabalho com as linguagens mais modernas e seguras do mercado global para garant
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Back-end & Banco de Dados
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Prisma ORM](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
-
-### Ferramentas & DevOps
+### Ferramentas, DevOps & Automação
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
+![Automações](https://img.shields.io/badge/Automações-Text_Here-339933?style=for-the-badge&logo=automation&logoColor=white)
 
 ---
 
@@ -74,9 +76,9 @@ Trabalho com as linguagens mais modernas e seguras do mercado global para garant
 
 ---
 
-## 🤝 Vamos Tirar seu Projeto do Papel?
+## 🤝 Vamos Conversar?
 
-A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar tecnologia em eficiência e lucro real, vamos conversar.
+Se você procura um parceiro estratégico para transformar tecnologia em eficiência e lucro real, vamos conversar. Vamos tirar seu projeto do papel juntas.
 
-📫 **E-mail:** gilsonmdj@gmail.com / gilson@gmjcode.com  
+📫 **E-mail:** [Conecte-se comigo](mailto:gilsonmdj@gmail.com) / **gilsonmdj@gmail.com**  
 💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/gilsondejesus)
