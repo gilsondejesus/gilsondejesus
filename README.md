@@ -78,21 +78,13 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics & Consistência
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&cache_seconds=86400" alt="Estatísticas Detalhadas de Gilson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&disable_animations=true&v=100" alt="Estatísticas de Gilson" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🗓️ Snapshot de Contribuições (Estático)</h3>
-  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Calendário de Contribuições de Gilson de Jesus (Estático)" />
-  <p><i>Nota: Para detalhes interativos e hover do mouse, veja o gráfico nativo do GitHub logo abaixo deste README.</i></p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="Estatísticas de Consistência (Streak)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&v=100" alt="Streak de Gilson" />
 </div>
 
 ---
