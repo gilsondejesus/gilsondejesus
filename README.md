@@ -35,7 +35,7 @@ Sou um entusiasta de esportes de resistência. Essa mesma disciplina e foco em r
 
 Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma empresa *Digital First*, com atuação sem fronteiras e marca registrada (INPI). Nascemos para ser o braço tecnológico de companhias que buscam escalabilidade, segurança e inovação real.
 
-* **Atendimento Consultivo:** Entendemos o seu modelo de negócio antes de propor a tecnologia.
+* **Atendimento Consultivo:** Entendemos o seu modelo de atuação antes de propor a tecnologia.
 * **Agilidade com Governança:** Velocidade aliada aos processos exigidos por grandes corporações.
 
 ---
@@ -72,8 +72,8 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Gilson" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsondejesus&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas por Gilson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical&hide_border=true" alt="Estatísticas de Consistência (Streak)" />
 </div>
 
 ---
