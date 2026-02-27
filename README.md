@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-Corporate-3423A6?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </div>
@@ -45,46 +45,46 @@ Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma
 Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado global para garantir entregas de ponta.
 
 ### Back-end, IA & Novas Explorações
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE052)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Prisma ORM](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE052" />
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
+</p>
 
 ### Front-end
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
 ### Infraestrutura, Cloud & Automação
-![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
-![Automações](https://img.shields.io/badge/Automações-20232A?style=for-the-badge&logo=robotframework&logoColor=FFFFFF)
+<p>
+  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/CI/CD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Automações-20232A?style=for-the-badge&logo=robotframework&logoColor=FFFFFF" />
+</p>
 
 ---
 
-## 📊 Analytics
+## 📊 Analytics & Atividade
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
+  <img src="https://metrics.lecoq.io/gilsondejesus?base=header%2C%20repositories%2C%20community&base.indepth=false&base.hireable=false&config.timezone=America%2FSao_Paulo&config.theme=dark&config.colors=20232a%2C%2000f7ff%2C%20ff1493&hide=email" alt="Métricas Gerais e Contribuições de Gilson de Jesus" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gilsondejesus&theme=radical" alt="Estatísticas Gerais" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical&hide_border=true" alt="Streak de Gilson" />
+  <img src="https://metrics.lecoq.io/gilsondejesus?base=activity&activity=heatmap&activity.heatmap=days&activity.heatmap=commits&config.theme=dark&config.colors=20232a%2C%2000f7ff%2C%20ff1493&hide=email" alt="Calendário de Contribuições Diárias (Heatmap)" />
 </div>
 
 ---
