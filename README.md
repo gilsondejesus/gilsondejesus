@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37"/></a>
+  <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=D4AF37"/></a>
   <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=D4AF37"/></a>
   <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=D4AF37"/></a>
@@ -78,13 +78,20 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics & Consistência
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&disable_animations=true&v=100" alt="Estatísticas de Gilson" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&locale=pt-br" alt="Estatísticas de Gilson" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&v=100" alt="Streak de Gilson" />
+  <h3>🔥 Commits Diários</h3>
+  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&locale=pt_BR" alt="Streak de Gilson" />
 </div>
 
 ---
