@@ -6,13 +6,13 @@
 
 <div align="center">
   <h1>👋 Olá, eu sou Gilson de Jesus</h1>
-  <p><b>Desenvolvedor Full Stack | Analista de TI | CEO & Founder da GMJ CODE®</b></p>
+  <p><b>Desenvolvedor Full Stack | CEO & Founder da GMJ CODE®</b></p>
   <p><i>"Preço é o que você paga, valor é o que você recebe." — Warren Buffett</i></p>
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gilson@gmjcode.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </div>
@@ -60,7 +60,7 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Infraestrutura, Cloud & Automação
-![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
@@ -72,8 +72,8 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsondejesus&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub de Gilson" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilsondejesus&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas por Gilson" />
 </div>
 
 ---
@@ -82,5 +82,5 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar tecnologia em eficiência e lucro real, vamos conversar e tirar seu projeto do papel.
 
-📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com) / [gilson@gmjcode.com](mailto:gilson@gmjcode.com)  
+📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com)  
 💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/gilsondejesus)
