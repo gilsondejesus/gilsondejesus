@@ -45,35 +45,44 @@ Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma
 Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado global para garantir entregas de ponta.
 
 ### Back-end, IA & Novas Explorações
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE052)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Prisma ORM](https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE052" />
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
+</p>
 
 ### Front-end
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
 ### Infraestrutura, Cloud & Automação
-![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF)
-![Automações](https://img.shields.io/badge/Automações-20232A?style=for-the-badge&logo=robotframework&logoColor=FFFFFF)
+<p>
+  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/CI/CD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Automações-20232A?style=for-the-badge&logo=robotframework&logoColor=FFFFFF" />
+</p>
 
 ---
 
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical&hide_border=true" alt="Estatísticas de Consistência (Streak)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gilsondejesus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas de Gilson" />
+</div>
+<br/>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&theme=radical&hide_border=true" alt="Streak de Gilson" />
 </div>
 
 ---
@@ -82,5 +91,5 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar tecnologia em eficiência e lucro real, vamos conversar e tirar seu projeto do papel.
 
-📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com)  
-💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/gilsondejesus)
+📫 **E-mail:** <a href="mailto:gilsonmdj@gmail.com">gilsonmdj@gmail.com</a><br/>
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/gilsondejesus">Conecte-se comigo</a>
