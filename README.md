@@ -26,7 +26,7 @@ Com mais de uma década de experiência combinando gestão administrativa e tecn
 Sou um entusiasta de esportes de resistência. Essa mesma disciplina e foco em resultados da jornada profissional me acompanham nas corridas, onde aplico resiliência e planejamento estratégico.
 
 * 🚀 **Foco atual:** Arquitetura de soluções web/mobile de alta performance, Cloud Computing, governança de TI e integração de **IA** e **Automações**.
-* 🎯 **Diferencial:** Liderança humanizada com alinhamento rigoroso entre a excelência técnica e o ROI do negócio.
+* 🎯 **Diferencial:** Liderança humanizada com alinhamento rigoroso entre a excelência técnica e o ROI dos parceiros corporativos.
 * 🌱 **Em constante evolução:** Atualmente explorando aprofundadamente **Python** para backend, desenvolvimento em Inteligência Artificial e criação de automações inteligentes.
 
 ---
@@ -35,8 +35,8 @@ Sou um entusiasta de esportes de resistência. Essa mesma disciplina e foco em r
 
 Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma empresa *Digital First*, com atuação sem fronteiras e marca registrada (INPI). Nascemos para ser o braço tecnológico de companhias que buscam escalabilidade, segurança e inovação real.
 
-* **Atendimento Consultivo:** Entendemos o seu modelo de atuação antes de propor a tecnologia.
-* **Agilidade com Governança:** Velocidade aliada aos processos exigidos por grandes corporações.
+* **Atendimento Consultivo:** Entendemos a operação corporativa antes de propor a tecnologia.
+* **Agilidade com Governança:** Velocidade aliada aos processos exigidos por grandes companhias.
 
 ---
 
@@ -77,23 +77,16 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 ## 📊 Analytics & Consistência
 
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
+  <img src="https://img.shields.io/github/followers/gilsondejesus?label=Seguidores&style=for-the-badge&color=000000&labelColor=D4AF37&logo=github&logoColor=000000" alt="Seguidores de Gilson" />
+  <img src="https://img.shields.io/github/stars/gilsondejesus?label=Estrelas%20Recebidas&style=for-the-badge&color=000000&labelColor=D4AF37&logo=apachespark&logoColor=000000" alt="Estrelas Recebidas por Gilson" />
+  <img src="https://img.shields.io/github/public-repos/gilsondejesus?label=Repositórios&style=for-the-badge&color=000000&labelColor=D4AF37&logo=git&logoColor=000000" alt="Repositórios de Gilson" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🔥 Commits Diários</h3>
-  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&locale=pt_BR" alt="Streak de Gilson" />
+  <img src="https://streak-stats.demolab.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="Streak de Gilson" />
 </div>
 
 ---
