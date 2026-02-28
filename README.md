@@ -78,4 +78,27 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics & Consistência
 
 <div align="center">
-  <img src="
+  <img src="https://readme-stats-vercel.onrender.com/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&locale=pt-br" alt="Estatísticas de Gilson" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔥 Commits Diários</h3>
+  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&locale=pt_BR" alt="Streak de Gilson" />
+</div>
+
+---
+
+## 🤝 Vamos Conversar?
+
+A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar tecnologia em eficiência e lucro real, vamos conversar e tirar seu projeto do papel.
+
+📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com)  
+💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/gilsondejesus)
