@@ -78,6 +78,10 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 ## 📊 Analytics & Consistência
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
+</div>
+
+<div align="center">
   <h3>🔥 Commits Diários</h3>
   <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
 </div>
