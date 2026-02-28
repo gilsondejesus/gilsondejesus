@@ -77,8 +77,10 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 ## 📊 Analytics & Consistência
 
+<br/>
+
 <div align="center">
-  <img src="https://readme-stats-vercel.onrender.com/api?username=gilsondejesus&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&hide_border=true&locale=pt-br" alt="Estatísticas de Gilson" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
 </div>
 
 <br/>
