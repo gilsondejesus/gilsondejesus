@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>👋 Olá, eu sou Gilson de Jesus</h1>
-  <p><b>Desenvolvedor Full Stack | CEO & Founder da GMJ CODE®</b></p>
+  <p><b>Tech Lead & Desenvolvedor Full Stack | Founder da GMJ CODE®</b></p>
   <p><i>"Preço é o que você paga, valor é o que você recebe." — Warren Buffett</i></p>
 </div>
 
@@ -21,13 +21,15 @@
 
 ## 👨🏻‍💻 Sobre Mim & Propósito
 
-Com mais de uma década de experiência combinando gestão administrativa e tecnologia, atuo na interseção entre **engenharia de software** e **inteligência corporativa**. Como fundador da GMJ CODE®, meu objetivo não é apenas entregar linhas de código, mas sim transformar desafios complexos em ecossistemas digitais escaláveis e seguros.
+Com mais de uma década de experiência combinando gestão administrativa e tecnologia, atuo na interseção entre **engenharia de software** e **eficiência operacional**. Como Tech Lead e fundador da GMJ CODE®, meu objetivo não é apenas entregar linhas de código, mas sim transformar desafios complexos em ecossistemas digitais escaláveis e seguros.
 
-Sou um entusiasta de esportes de resistência. Essa mesma disciplina e foco em resultados da jornada profissional me acompanham nas corridas, onde aplico resiliência e planejamento estratégico.
+Acredito que a tecnologia só atinge seu potencial máximo quando resolve problemas reais. Por isso, **antes de escrever a primeira linha de código, faço questão de entender profundamente a dor e a lógica operacional do projeto**. Atuo de ponta a ponta no ciclo de vida do desenvolvimento de software (**SDLC**), desde o desenho da arquitetura até o deploy em nuvem, garantindo entregas altamente assertivas.
 
-* 🚀 **Foco atual:** Arquitetura de soluções web/mobile de alta performance, Cloud Computing, governança de TI e integração de **IA** e **Automações**.
-* 🎯 **Diferencial:** Liderança humanizada com alinhamento rigoroso entre a excelência técnica e o ROI do negócio.
-* 🌱 **Em constante evolução:** Atualmente explorando aprofundadamente **Python** para backend, desenvolvimento em Inteligência Artificial e criação de automações inteligentes.
+Sou um entusiasta de esportes de resistência. Essa mesma disciplina, resiliência e visão de longo prazo que aplico nas pistas de corrida, eu levo para a arquitetura de sistemas e para as parcerias que construo.
+
+* 🚀 **Foco atual:** Arquitetura de soluções web de alta performance, Cloud Computing, governança de TI e integração de **IA** e **Automações**.
+* 🎯 **Diferencial:** Liderança técnica com alinhamento rigoroso entre a excelência do código e o ROI estratégico da corporação.
+* 🌱 **Em constante evolução:** Integrando o ecossistema **Node.js/Python** para backend, desenvolvimento auxiliado por Inteligência Artificial e criação de automações inteligentes.
 
 ---
 
@@ -35,8 +37,8 @@ Sou um entusiasta de esportes de resistência. Essa mesma disciplina e foco em r
 
 Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma empresa *Digital First*, com atuação sem fronteiras e marca registrada (INPI). Nascemos para ser o braço tecnológico de companhias que buscam escalabilidade, segurança e inovação real.
 
-* **Atendimento Consultivo:** Entendemos o seu modelo de atuação antes de propor a tecnologia.
-* **Agilidade com Governança:** Velocidade aliada aos processos exigidos por grandes corporações.
+* **Visão Consultiva:** Compreendemos a sua operação a fundo antes de propor a solução tecnológica.
+* **Agilidade com Governança:** Velocidade aliada ao rigor técnico e aos processos exigidos por grandes organizações.
 
 ---
 
@@ -100,7 +102,7 @@ Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado glo
 
 ## 🤝 Vamos Conversar?
 
-A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar tecnologia em eficiência e lucro real, vamos conversar e tirar seu projeto do papel.
+A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar desafios em eficiência e resultados corporativos reais, vamos conversar e tirar o seu projeto do papel.
 
 📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com)  
 💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/gilsondejesus)
