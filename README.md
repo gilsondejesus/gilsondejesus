@@ -158,10 +158,3 @@ Se você precisa estruturar um sistema, automatizar processos, integrar ferramen
 📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/gilsondejesus](https://www.linkedin.com/in/gilsondejesus)  
 🌐 **GMJ CODE®:** [www.gmjcode.com](https://www.gmjcode.com)
-
-Engenharia de software aplicada à realidade do seu negócio.
-```
-
-```text
-Digital além do código: estratégia, engenharia e execução no mesmo caminho.
-```
