@@ -5,104 +5,254 @@
 <br />
 
 <div align="center">
-  <h1>👋 Olá, eu sou Gilson de Jesus</h1>
-  <p><b>Tech Lead & Desenvolvedor Full Stack | Founder da GMJ CODE®</b></p>
-  <p><i>"Preço é o que você paga, valor é o que você recebe." — Warren Buffett</i></p>
+  <h1>👋 Olá, eu sou Gilson Jesus</h1>
+  <p><b>Desenvolvedor Full Stack & Tech Lead | Founder & CEO da GMJ CODE®</b></p>
+  <p><i>A tecnologia certa não começa no código. Começa no entendimento do problema.</i></p>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gilsondejesus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gilsonmdj@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=Gmail&logoColor=D4AF37"/></a>
-  <a href="https://www.instagram.com/gmjcode/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=D4AF37"/></a>
-  <a href="https://www.gmjcode.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-Chrome&logoColor=D4AF37"/></a>
+  <a href="https://www.linkedin.com/in/gilsondejesus">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gilsonmdj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
+  </a>
+  <a href="https://www.instagram.com/gmjcode/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37" />
+  </a>
+  <a href="https://www.gmjcode.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" />
+  </a>
 </div>
 
 <br />
 
-## 👨🏻‍💻 Sobre Mim & Propósito
+---
 
-Com mais de uma década de experiência combinando gestão administrativa e tecnologia, atuo na interseção entre **engenharia de software** e **eficiência operacional**. Como Tech Lead e fundador da GMJ CODE®, meu objetivo não é apenas entregar linhas de código, mas sim transformar desafios complexos em ecossistemas digitais escaláveis e seguros.
+## 👨🏻‍💻 Sobre mim
 
-Acredito que a tecnologia só atinge seu potencial máximo quando resolve problemas reais. Por isso, **antes de escrever a primeira linha de código, faço questão de entender profundamente a dor e a lógica operacional do projeto**. Atuo de ponta a ponta no ciclo de vida do desenvolvimento de software (**SDLC**), desde o desenho da arquitetura até o deploy em nuvem, garantindo entregas altamente assertivas.
+Sou Desenvolvedor Full Stack, Tech Lead e Founder & CEO da **GMJ CODE®**, empresa de tecnologia especializada em soluções digitais personalizadas para empresas que precisam organizar processos, criar plataformas, automatizar rotinas, estruturar dados e evoluir com segurança.
 
-Sou um entusiasta de esportes de resistência. Essa mesma disciplina, resiliência e visão de longo prazo que aplico nas pistas de corrida, eu levo para a arquitetura de sistemas e para as parcerias que construo.
+Minha atuação une **engenharia de software**, **visão de negócio** e **experiência operacional**. Antes de propor uma solução, busco entender o problema, o contexto, os fluxos, os riscos e os objetivos do projeto. A partir disso, desenho e desenvolvo aplicações com foco em clareza, performance, segurança e possibilidade de evolução.
 
-* 🚀 **Foco atual:** Arquitetura de soluções web de alta performance, Cloud Computing, governança de TI e integração de **IA** e **Automações**.
-* 🎯 **Diferencial:** Liderança técnica com alinhamento rigoroso entre a excelência do código e o ROI estratégico da corporação.
-* 🌱 **Em constante evolução:** Integrando o ecossistema **Node.js/Python** para backend, desenvolvimento auxiliado por Inteligência Artificial e criação de automações inteligentes.
+Atuo de ponta a ponta no ciclo de vida do desenvolvimento de software, passando por diagnóstico, requisitos, arquitetura, desenvolvimento, integração, validação, deploy e evolução contínua.
+
+- 🚀 **Foco atual:** aplicações web, arquitetura de software, automação com IA, dados e cloud.
+- 🎯 **Diferencial:** unir visão técnica e visão operacional para construir soluções que resolvem problemas reais.
+- 🦁 **GMJ CODE®:** tecnologia com estratégia, segurança e precisão.
+- 🌱 **Evolução constante:** aprimorando soluções com TypeScript, React, Next.js, Node.js, bancos de dados, IA aplicada e automações inteligentes.
 
 ---
 
-## 🦁 O DNA da Marca: GMJ CODE®
+## 🦁 GMJ CODE®
 
-Fundada com o DNA de *Força, Resiliência e Precisão*, a **GMJ CODE®** é uma empresa *Digital First*, com atuação sem fronteiras e marca registrada (INPI). Nascemos para ser o braço tecnológico de companhias que buscam escalabilidade, segurança e inovação real.
+A **GMJ CODE®** desenvolve soluções digitais sob medida para empresas que precisam transformar processos, dados e desafios em sistemas, plataformas e automações mais eficientes.
 
-* **Visão Consultiva:** Compreendemos a sua operação a fundo antes de propor a solução tecnológica.
-* **Agilidade com Governança:** Velocidade aliada ao rigor técnico e aos processos exigidos por grandes organizações.
+Não entregamos apenas código. Entregamos estrutura, clareza técnica e evolução digital com propósito.
+
+**Principais frentes de atuação:**
+
+- Sistemas e aplicações web sob medida.
+- Plataformas digitais, sites institucionais e landing pages.
+- Automações com n8n, scripts, integrações e IA aplicada.
+- APIs, bancos de dados e integrações entre sistemas.
+- Dashboards, dados e apoio à tomada de decisão.
+- Cloud, VPS, deploy, segurança e boas práticas.
+- Consultoria em tecnologia e gestão de projetos digitais.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack técnica
 
-Trabalho com as tecnologias e arquiteturas em nuvem mais robustas do mercado global para garantir entregas de ponta.
+### Front-end
 
-### Back-end, IA & Novas Explorações
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+### Back-end & APIs
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFE052" />
+  <img src="https://img.shields.io/badge/API_REST-20232A?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/JWT-20232A?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
+</p>
+
+### Banco de dados & ORM
+
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Prisma-20232A?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
 </p>
 
-### Front-end
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
+### Cloud, DevOps & Automação
 
-### Infraestrutura, Cloud & Automação
 <p>
-  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/CI/CD-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Automações-20232A?style=for-the-badge&logo=robotframework&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-20232A?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/n8n-20232A?style=for-the-badge&logo=n8n&logoColor=EA4B71" />
+  <img src="https://img.shields.io/badge/VPS-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+</p>
+
+### Design, Produto & Gestão
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/UI%2FUX-20232A?style=for-the-badge&logo=adobecreativecloud&logoColor=D4AF37" />
+  <img src="https://img.shields.io/badge/Gest%C3%A3o_de_Projetos-20232A?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/SEO_T%C3%A9cnico-20232A?style=for-the-badge&logo=google&logoColor=4285F4" />
 </p>
 
 ---
 
-## 📊 Analytics & Consistência
+## ⚙️ Como eu trabalho
 
-<br/>
+```text
+01. Entender o problema antes de propor tecnologia.
+02. Mapear requisitos, fluxos, prioridades e riscos.
+03. Planejar arquitetura, dados, integrações e fases de entrega.
+04. Desenvolver com foco em clareza, segurança e manutenção.
+05. Validar com o cliente, ajustar e documentar o necessário.
+06. Publicar, acompanhar e evoluir conforme o negócio cresce.
+```
+
+---
+
+## 📊 Analytics & consistência
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Estatísticas Detalhadas de Gilson" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gilsondejesus&theme=radical" alt="Resumo do perfil GitHub de Gilson Jesus" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <h3>🔥 Commits Diários</h3>
-  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de Contribuições Diárias" />
+  <h3>🔥 Contribuições</h3>
+  <img src="https://ghchart.rshah.org/D4AF37/gilsondejesus" alt="Gráfico de contribuições GitHub" />
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&locale=pt_BR" alt="Streak de Gilson" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilsondejesus&hide_border=true&background=000000&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&locale=pt_BR" alt="GitHub streak de Gilson Jesus" />
 </div>
 
 ---
 
-## 🤝 Vamos Conversar?
+## 🤝 Vamos conversar?
 
-A solução tecnológica que você busca está mais perto do que imagina. Se você procura um parceiro estratégico para transformar desafios em eficiência e resultados corporativos reais, vamos conversar e tirar o seu projeto do papel.
+Se você precisa estruturar um sistema, automatizar processos, integrar ferramentas, organizar dados ou evoluir uma operação com tecnologia, podemos conversar.
 
 📫 **E-mail:** [gilsonmdj@gmail.com](mailto:gilsonmdj@gmail.com)  
-💼 **LinkedIn:** [Conecte-se comigo](https://www.linkedin.com/in/gilsondejesus)
+💼 **LinkedIn:** [linkedin.com/in/gilsondejesus](https://www.linkedin.com/in/gilsondejesus)  
+🌐 **GMJ CODE®:** [www.gmjcode.com](https://www.gmjcode.com)
+
+---
+
+## 🧩 Informações para preencher no perfil do GitHub
+
+### Bio curta
+
+```text
+Full Stack Developer & Tech Lead | Founder da GMJ CODE® | Software, automações, dados e cloud.
+```
+
+### Location
+
+```text
+São Paulo, Brasil
+```
+
+### Company
+
+```text
+GMJ CODE®
+```
+
+### Website
+
+```text
+https://www.gmjcode.com
+```
+
+---
+
+## 📌 Descrições curtas para repositórios
+
+### Projeto web geral
+
+```text
+Aplicação web desenvolvida com foco em arquitetura, performance, responsividade e clareza técnica.
+```
+
+### Projeto da GMJ CODE®
+
+```text
+Solução digital desenvolvida pela GMJ CODE® com foco em estratégia, engenharia, segurança e precisão.
+```
+
+### Projeto de automação
+
+```text
+Fluxo de automação criado para reduzir retrabalho, padronizar processos e integrar ferramentas de forma mais eficiente.
+```
+
+### Projeto front-end
+
+```text
+Interface web desenvolvida com foco em responsividade, usabilidade, performance e experiência do usuário.
+```
+
+### Projeto back-end/API
+
+```text
+API desenvolvida com foco em arquitetura, segurança, organização de dados e integração entre sistemas.
+```
+
+### Projeto full stack
+
+```text
+Aplicação full stack desenvolvida com foco em arquitetura, integração, performance e evolução técnica.
+```
+
+### Projeto de dados/dashboard
+
+```text
+Solução para organização, visualização e análise de dados com foco em clareza operacional e apoio à decisão.
+```
+
+---
+
+## 🦁 Frases-base de posicionamento
+
+```text
+A tecnologia certa não começa no código. Começa no entendimento do problema.
+```
+
+```text
+GMJ CODE® — Tecnologia com estratégia, segurança e precisão.
+```
+
+```text
+Não entregamos apenas código. Entregamos estrutura, clareza técnica e evolução digital com propósito.
+```
+
+```text
+Engenharia de software aplicada à realidade do seu negócio.
+```
+
+```text
+Digital além do código: estratégia, engenharia e execução no mesmo caminho.
+```
